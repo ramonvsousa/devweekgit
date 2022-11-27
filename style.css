@@ -27,8 +27,7 @@
     border-radius: 0px 60px 0px 0px;
 }
 
-.left-section-contents,
-.experience-gap{
+.left-section-contents{
     padding: 2rem 2rem;
 }
 
@@ -91,7 +90,9 @@
     color: #eeeeee;
 }
 
-.right-section-contents {
+.right-section-contents,
+.experience-gap,
+.education-gap {
     padding: 2rem 2rem;
 }
 
@@ -99,13 +100,9 @@
     color: #eeeeee;
 }
 
-.gap {
-    padding-bottom: 2rem;
-}
 .about-me-contents {
     font-size: 18px;
     color: #eeeeee;
-    text-align: justify;
 }
 
 .experience-contents,
@@ -125,6 +122,7 @@
 }
 
 .exp-time-period,
+.education-time-period,
 .educationp-time-period,
 .awards-time-period {
     font-size: 18px;
@@ -141,5 +139,4 @@
 .awards-desc {
     font-size: 16px;
     padding-left: 5px;
-    text-align: justify;
 }
