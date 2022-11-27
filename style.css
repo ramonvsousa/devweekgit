@@ -1,6 +1,3 @@
-/*Import fiddums-family font*/
-@import url('https://fonts.cdnfonts.com/css/fiddums-family');
-
 * {
     margin: 0;
     padding: 0;
@@ -30,13 +27,14 @@
     border-radius: 0px 60px 0px 0px;
 }
 
-.left-section-contents{
+.left-section-contents,
+.experience-gap{
     padding: 2rem 2rem;
 }
 
 .profile {
     width: 100%;
-    border-bottom: 2px solid #FAFAFA;
+    border-bottom: 2px solid #eeeeee;
 }
 
 .profile .profile-image {
@@ -107,4 +105,41 @@
 .about-me-contents {
     font-size: 18px;
     color: #eeeeee;
+    text-align: justify;
+}
+
+.experience-contents,
+.education-contents,
+.awards-contents {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding-bottom: 2rem;
+    color: #F1F8FD;
+}
+
+.exp-company-name,
+.education-school-name,
+.awards-company-name {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.exp-time-period,
+.educationp-time-period,
+.awards-time-period {
+    font-size: 18px;
+}
+
+.exp-position,
+.education-subject,
+.awards-name {
+    font-size: 25px;
+}
+
+.exp-desc,
+.education-desc,
+.awards-desc {
+    font-size: 16px;
+    padding-left: 5px;
+    text-align: justify;
 }
