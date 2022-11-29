@@ -1,4 +1,4 @@
-# [**EBAC - Webinar: Jornada Dev (22 a 29 de novembro de 2022)**](https://ebaconline.com.br/webinars/jornada-dev-novembro-22-29)
+# [**EBAC - Webinar: Jornada Dev (22 a 29 de novembro de 2022)**](https://ebaconline.com.br/webinars/programacao-jornada-2022-11-22-23-24-25-26-27-28-29?topic=0)
 ## Atividade: Currículo utilizando HTML e CSS
 **Programa do evento**
 * Dia 1 - 22/11: Conhecendo o GitHub
