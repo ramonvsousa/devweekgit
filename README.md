@@ -12,4 +12,4 @@
 
 Atividade realizada com o intuito de conhecer mais sobre o Git e GitHub.
 
-**GitHub Pages:** <ramonvsousa.github.io/devweekgit/>
+**GitHub Pages:**  [resultado final](https://ramonvsousa.github.io/devweekgit/)
